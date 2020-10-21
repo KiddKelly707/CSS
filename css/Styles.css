@@ -1,0 +1,153 @@
+body{
+  background-color: #10174D;
+
+}
+
+
+h1{
+  color: white;
+  font-family:  Montserrat light;
+  font-size: 100px;
+
+}
+
+p{
+  color: white;
+  font-family: Montserrat light;
+  line-height: 30px;
+}
+
+
+
+
+
+
+.boomerang{
+  width: 85%
+}
+
+
+.background-image{
+  top: 75px;
+  bottom: 75px;
+  position: absolute;
+  text-align: center;
+}
+
+.bottom-container{
+padding: 5px;
+}
+
+.description{
+  font-size: 25px;
+  line-height: 50px
+}
+
+
+
+.Heading{
+  position: absolute;
+  left: 700px;
+  line-height: 65px;
+}
+
+
+
+.logo{
+  position: relative;
+  margin: 30px 0 0 30px;
+}
+
+
+
+.skills{
+  position: absolute;
+  left: 700px;
+  top: 1100px;
+  width: 500px;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.skills-1{
+  position: absolute;
+  left: 700px;
+  top: 1000px;
+  width: 500px;
+  margin: 50px auto 50px auto;
+  text-align: left;
+
+}
+
+.skills-2{
+  position: absolute;
+  left: 700px;
+  top: 900px;
+  width: 500px;
+  margin: 50px auto 50px auto;
+  text-align:left;
+
+}
+
+.skills-3{
+  position: absolute;
+  left: 700px;
+  top: 800px;
+  width: 500px;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.icon{
+  float: left;
+  margin-right: 30px;
+
+}
+
+.icon-2{
+  float: left;
+  margin-right: 40px;
+
+}
+
+.icon-3{
+  float: left;
+  margin-right: 20px;
+  width: 10%;
+}
+
+.icon-4{
+  float: left;
+  margin-right: 20px;
+  width: 10%;
+}
+
+.tag{
+  position: absolute;
+  top: 400px;
+  left: 10px;
+}
+
+.title{
+  position: absolute;
+  left: 770px;
+  margin-bottom: 35px;
+  top: 790px;
+  padding: 5px;
+}
+
+.title-1{
+  font-size: 25px;
+  font-family: Montserrat;
+}
+
+.opes{
+  width: 10%;
+}
+
+
+
+
+.world{
+  width: 4%;
+}
