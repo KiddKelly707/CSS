@@ -62,7 +62,7 @@ padding: 5px;
 
 .skills{
   position: absolute;
-  left: 700px;
+  left: 640px;
   top: 1100px;
   width: 500px;
   margin: 50px auto 50px auto;
@@ -71,7 +71,7 @@ padding: 5px;
 
 .skills-1{
   position: absolute;
-  left: 700px;
+  left: 640px;
   top: 1000px;
   width: 500px;
   margin: 50px auto 50px auto;
@@ -81,7 +81,7 @@ padding: 5px;
 
 .skills-2{
   position: absolute;
-  left: 700px;
+  left: 640px;
   top: 900px;
   width: 500px;
   margin: 50px auto 50px auto;
@@ -91,7 +91,7 @@ padding: 5px;
 
 .skills-3{
   position: absolute;
-  left: 700px;
+  left: 640px;
   top: 800px;
   width: 500px;
   margin: 50px auto 50px auto;
@@ -130,7 +130,7 @@ padding: 5px;
 
 .title{
   position: absolute;
-  left: 770px;
+  left: 700px;
   margin-bottom: 35px;
   top: 790px;
   padding: 5px;
